@@ -12,6 +12,7 @@
         display: table-cell;
         vertical-align: middle;
         background-image: url(../aarde.jpg);
+        background-size: cover;
 
 
     }
@@ -55,6 +56,20 @@ h1 {
   text-align:center;
   border-style:solid;
   border-color:black;
+}
+
+table {
+  display:table;
+  margin:auto;
+
+}
+
+caption {
+    text-align:center;
+  font-size:14px;
+  text-decoration:underline;
+  width:50%;
+   white-space: nowrap;
 }
    
 
